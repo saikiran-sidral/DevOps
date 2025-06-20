@@ -1,4 +1,5 @@
 Saikiran Sidral
 Devops Master Course
 DevSecOps
-Git is used in every project
+Git is used in every project.
+Git is very powerful tool.
