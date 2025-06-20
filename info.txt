@@ -1,3 +1,4 @@
 Saikiran Sidral
 Devops Master Course
 DevSecOps
+Git is used in every project
